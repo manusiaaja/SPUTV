@@ -1,0 +1,31 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+.white-text {
+    color: rgb(237, 228, 228);
+}
+
+.color-audio {
+    background-color: rgb(25, 57, 67);
+}
+
+.max-img {
+    max-width: 25vh;
+    height: auto;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+audio .player {
+    border-radius: 0px;
+    background-color: rgb(25, 57, 67);
+}
